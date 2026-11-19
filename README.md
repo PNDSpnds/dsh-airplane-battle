@@ -1,6 +1,6 @@
 <div align="center">
 
-# 字符雷霆 · ASCII Thunder
+# 雷霆字符 · ASCII Thunder
 
 **把 DSH 的对话区，变成一场字符飞机大战。**
 
