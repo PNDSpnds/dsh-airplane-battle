@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "ASCII Thunder",
+    "description": "A character-cell vertical shooter in the conversation column: a draggable ball on the right edge swaps the chat for a starfield, and every ship, bullet and bar is a character.",
+    "detail": "docs/DETAIL.md"
+  }
+}

@@ -1,0 +1,3 @@
+- insert:
+    - id: ascii-thunder
+      name: '@local/ascii-thunder'
