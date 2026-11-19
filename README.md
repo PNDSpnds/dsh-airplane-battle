@@ -30,7 +30,7 @@
 ## 三十秒上手
 
 ```bash
-git clone https://github.com/<you>/ascii-thunder.git
+git clone https://github.com/PNDSpnds/dsh-airplane-battle.git
 ```
 
 1. 打开 DSH 左侧栏的 **插件** 页

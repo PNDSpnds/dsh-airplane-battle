@@ -1,7 +1,6 @@
 {
-  "name": "@local/ascii-thunder",
-  "version": "1.1.0",
-  "private": true,
+  "name": "@pndspnds/dsh-airplane-battle",
+  "version": "1.1.1",
   "description": "A 60fps character-cell vertical shooter that covers the conversation area, then steps aside.",
   "license": "MIT",
   "type": "module",
@@ -13,6 +12,14 @@
     "canvas",
     "game"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PNDSpnds/dsh-airplane-battle.git"
+  },
+  "homepage": "https://github.com/PNDSpnds/dsh-airplane-battle#readme",
+  "bugs": {
+    "url": "https://github.com/PNDSpnds/dsh-airplane-battle/issues"
+  },
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
@@ -27,7 +34,9 @@
     "cordis.patch.yml",
     "locale/*.json",
     "docs",
-    "icon.svg"
+    "assets",
+    "icon.svg",
+    "screenshots.json"
   ],
   "dsh": {
     "bundle": {

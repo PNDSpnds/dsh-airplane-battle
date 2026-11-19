@@ -10,7 +10,7 @@
  * so gameplay is smooth without rewriting any DOM.
  */
 window.__ModuleLoader__.load({
-  id: '@local/ascii-thunder',
+  id: '@pndspnds/dsh-airplane-battle',
   factory(require) {
     'use strict'
 
